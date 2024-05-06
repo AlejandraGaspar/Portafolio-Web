@@ -1,5 +1,5 @@
 * {
-    color: white;
+    color:white;
 }
 
 #navbarNav a {
@@ -10,11 +10,33 @@ header {
     padding-right: 0px !important;
     padding-left: 0px !important;
     height: 100vh;
-
-    background-image: url('fondo4.jpg');
+    width: 50vh;
+    justify-content: center;
+    
+    background-image: url('fondoR.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat; /* Prevent the image from repeating */
     background-attachment: fixed; /* Keep the image in place while scrolling */
     filter: brightness(0.8); /* Adjust the brightness */
+}
+
+#gmail {
+    height: 40px;
+    padding-top: 10px !important;
+    padding-left: 20px !important;
+    padding-right: 0px !important;
+    margin-right: 0px;
+}
+
+#texty {
+    text-align: justify;
+}
+
+#Nombre {
+    margin-left: 20px;
+}
+
+#menu-nav {
+    margin-right: 47px;
 }
