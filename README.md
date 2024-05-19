@@ -14,7 +14,7 @@ Fue desarrollado con HTML, CSS y JS con el uso del framework Bootstrap utilizand
 ![Sección Testimonios](assets/4.png)
 ![Sección Contacto](assets/5.png)
 
-* Tecnologías
+## Tecnologías
 * HTML
 * CSS
 * Javascript
